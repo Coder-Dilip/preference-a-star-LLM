@@ -2,6 +2,8 @@
 
 This project integrates a **Language Model (LLM)** with the **A*** algorithm to enhance pathfinding by incorporating user preferences. Unlike traditional A*, which finds the shortest path based purely on distance or cost, our approach dynamically adjusts routing based on user-defined criteria, enabling more personalized navigation solutions.
 
+Paper can be found here: [LLM a*](http://dx.doi.org/10.13140/RG.2.2.26915.36644)
+
 ## 🚀 Features
 - **Preference-Based Pathfinding**: Routes are optimized based on user constraints (e.g., safety, scenery, toll-free roads).
 - **Multi-Level Neighbor Exploration**: Considers alternative paths beyond the shortest route.
